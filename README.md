@@ -9,3 +9,8 @@ Para mejor referencia actualiza este archivo con los siguientes datos:
 # Información General
 
 Nombre del curso: Desarrollo del lado del servidor: NodeJS, Express y MongoDB
+
+# Imagenes De Avances del Curso:
+
+Semana 2
+<img src="images/semana2.jpg">
